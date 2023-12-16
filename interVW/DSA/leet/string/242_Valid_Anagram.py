@@ -25,7 +25,7 @@ class Solution(object):
 
 sorted_s = sorted(s)
 sorted_t = sorted(t)
-print(sorted_s,sorted_t)
+# becose they have to use all the chars thats why it will be same if not then its not anagram
 print(sorted_s == sorted_t)
     
 
